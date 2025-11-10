@@ -1,1 +1,0 @@
-# Facr-Detection-with-Haar-cascades
